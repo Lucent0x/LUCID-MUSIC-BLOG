@@ -1,3 +1,3 @@
 # THIS IS THE FULLY FUNCTIONAL & RESPOSIVE MUSIC DOWNLOADER
 
-# have fun modifing it.
+# have fun modifying it.
