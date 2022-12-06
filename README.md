@@ -1,3 +1,3 @@
-# THIS IS YOUR SET UP KIT
+# THIS IS THE FULLY FUNCTIONAL & RESPOSIVE MUSIC DOWNLOADER
 
-# have fun
+# have fun modifying it.
