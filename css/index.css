@@ -4,6 +4,11 @@
     text-decoration: none;
     font-family: 'Poppins';
 }
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
 div.container, div.form{ 
      background: linear-gradient(to right bottom, yellow, lightgreen,  turquoise, yellow);
     min-height: 100vh;
@@ -89,7 +94,6 @@ section#suggestions p{
 }
 
 footer{
-    height : 100px;
     background: black;
     width: 100%;
 }
